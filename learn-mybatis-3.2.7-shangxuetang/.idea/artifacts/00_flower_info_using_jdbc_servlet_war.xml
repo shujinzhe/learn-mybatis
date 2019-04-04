@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="00-flower-info-using-jdbc-servlet:war">
+    <output-path>$PROJECT_DIR$/00-flower-info-using-jdbc-servlet/target</output-path>
+    <root id="archive" name="flower-info-using-jdbc-com.shujinzhe.servlet.war">
+      <element id="artifact" artifact-name="00-flower-info-using-jdbc-servlet:war exploded" />
+    </root>
+  </artifact>
+</component>
