@@ -1,7 +1,6 @@
 
-*/*.iml
-*/*.idea
-*/target
-*/out
-*/gen
-.idea/workspace.xml
+*.iml
+.idea
+target
+out
+gen
