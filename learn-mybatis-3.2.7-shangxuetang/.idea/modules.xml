@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/00-flower-info-using-jdbc-servlet/00-flower-info-using-jdbc-servlet.iml" filepath="$PROJECT_DIR$/00-flower-info-using-jdbc-servlet/00-flower-info-using-jdbc-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-flower-info-using-mybatis/01-flower-info-using-mybatis.iml" filepath="$PROJECT_DIR$/01-flower-info-using-mybatis/01-flower-info-using-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-flower-info-using-mybatis-jndi/02-flower-info-using-mybatis-jndi.iml" filepath="$PROJECT_DIR$/02-flower-info-using-mybatis-jndi/02-flower-info-using-mybatis-jndi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learn-mybatis-3.2.7-shangxuetang.iml" filepath="$PROJECT_DIR$/.idea/learn-mybatis-3.2.7-shangxuetang.iml" />
     </modules>
   </component>

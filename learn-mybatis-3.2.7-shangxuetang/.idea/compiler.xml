@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="00-flower-info-using-jdbc-servlet" />
+        <module name="01-flower-info-using-mybatis" />
+        <module name="02-flower-info-using-mybatis-jndi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="00-flower-info-using-jdbc-servlet" target="1.8" />
+      <module name="01-flower-info-using-mybatis" target="1.8" />
+      <module name="02-flower-info-using-mybatis-jndi" target="1.7" />
       <module name="fsdfds" target="1.8" />
     </bytecodeTargetLevel>
   </component>

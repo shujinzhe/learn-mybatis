@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.shujinzhe</groupId>
-  <artifactId>flower-info-using-jdbc-servlet</artifactId>
+  <artifactId>01-flower-info-using-mybatis</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>00-flower-info-using-jdbc-servlet</name>
+  <name>01-flower-info-using-mybatis Maven Webapp</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -18,6 +18,12 @@
   </properties>
 
   <dependencies>
+    <!-- 添加Mybatis依赖 -->
+    <dependency>
+      <groupId>org.mybatis</groupId>
+      <artifactId>mybatis</artifactId>
+      <version>3.2.7</version>
+    </dependency>
 
     <!-- jdbc驱动包 -->
     <dependency>
@@ -51,7 +57,7 @@
   </dependencies>
 
   <build>
-    <finalName>flower-info-using-jdbc-com.shujinzhe.servlet</finalName>
+    <finalName>01-flower-info-using-mybatis</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/00-flower-info-using-jdbc-servlet" />
+    <file type="web" url="file://$PROJECT_DIR$/01-flower-info-using-mybatis" />
+    <file type="web" url="file://$PROJECT_DIR$/02-flower-info-using-mybatis-jndi" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -10,6 +12,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/00-flower-info-using-jdbc-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/01-flower-info-using-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/02-flower-info-using-mybatis-jndi/pom.xml" />
       </list>
     </option>
   </component>
